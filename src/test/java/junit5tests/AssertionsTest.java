@@ -16,6 +16,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 @ExtendWith(Listener.class)
 public class AssertionsTest {
+    //simple test
     @Test
     void assertEqualsTest(){
         assertNotEquals("soda", "SODA");
