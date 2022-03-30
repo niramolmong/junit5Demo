@@ -18,6 +18,7 @@ import static org.junit.jupiter.api.Assertions.*;
 public class AssertionsTest {
     //simple test
     //second comment
+    //third comment
     @Test
     void assertEqualsTest(){
         assertNotEquals("soda", "SODA");
