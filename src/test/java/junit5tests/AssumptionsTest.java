@@ -12,8 +12,5 @@ public class AssumptionsTest {
         Assumptions.assumeTrue(theParam > 4);
         System.out.println("theParam = " + theParam);
     }
-    //test rebase
 
-
-    //test2 rebase
 }
